@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\obj\Debug\netcoreapp3.1\negativo.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\obj\Debug\netcoreapp3.1\negativo.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\obj\Debug\netcoreapp3.1\negativo.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.exe
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.dll
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\bin\Debug\netcoreapp3.1\negativo.pdb
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\obj\Debug\netcoreapp3.1\negativo.dll
+C:\Users\Maria Luiza\Documents\Luiza\negativo\negativo\obj\Debug\netcoreapp3.1\negativo.pdb
